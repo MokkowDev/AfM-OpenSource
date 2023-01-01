@@ -1,0 +1,1697 @@
+[12:58:39] [main/INFO]: Extra: []
+[12:58:40] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/sy.computer/.gradle/caches/minecraft/assets, --assetIndex, 1.8, --accessToken{REDACTED}, --version, 1.8.9, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[12:58:40] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[12:58:41] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[12:58:41] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[12:58:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[12:58:42] [main/INFO]: Forge Mod Loader version 11.15.1.2318 for Minecraft 1.8.9 loading
+[12:58:42] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_271, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jdk1.8.0_271\jre
+[12:58:42] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[12:58:42] [main/INFO]: Found a command line coremod : net.ccbluex.liquidbounce.injection.forge.MixinLoader
+[12:58:42] [main/WARN]: The coremod net.ccbluex.liquidbounce.injection.forge.MixinLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[12:58:42] [main/INFO]: [net.ccbluex.liquidbounce.injection.forge.MixinLoader:<init>:20]: [LiquidBounce] Injecting with IFMLLoadingPlugin.
+[12:58:49] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.7.10 Source=file:/C:/Users/sy.computer/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.7.10-SNAPSHOT/db99723868016630419bf62afa24109bd6236073/mixin-0.7.10-SNAPSHOT.jar Service=LaunchWrapper Env=CLIENT
+[12:58:53] [main/INFO]: Compatibility level set to JAVA_8
+[12:58:53] [main/ERROR]: Mixin config liquidbounce.forge.mixins.json does not specify "minVersion" property
+[12:58:53] [main/DEBUG]: Enqueued coremod MixinLoader
+[12:58:53] [main/DEBUG]: Attempting to load commandline specified mods, relative to C:\Users\sy.computer\Liqquidxdd\1.12.2-Forge\run\.
+[12:58:53] [main/DEBUG]: Discovering coremods
+[12:58:53] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[12:58:53] [main/INFO]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[12:58:53] [main/INFO]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[12:58:53] [main/INFO]: Injecting location in coremod net.ccbluex.liquidbounce.injection.forge.MixinLoader
+[12:58:53] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:58:53] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[12:58:53] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[12:58:53] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[12:58:53] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:58:54] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[12:58:54] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:58:54] [main/DEBUG]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[12:58:54] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[12:58:56] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[12:58:56] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[12:58:57] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[12:58:57] [main/DEBUG]: Injection complete
+[12:58:57] [main/DEBUG]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[12:58:57] [main/DEBUG]: Running coremod plugin FMLCorePlugin
+[12:58:57] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[12:58:58] [main/DEBUG]: Loading deobfuscation resource C:\Users\sy.computer\.gradle\caches\minecraft\de\oceanlabs\mcp\mcp_stable\22\srgs\srg-mcp.srg with 27884 records
+[12:59:17] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[12:59:17] [main/DEBUG]: Coremod plugin class FMLCorePlugin run successfully
+[12:59:17] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:59:17] [main/DEBUG]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[12:59:17] [main/DEBUG]: Injection complete
+[12:59:17] [main/DEBUG]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[12:59:17] [main/DEBUG]: Running coremod plugin FMLForgePlugin
+[12:59:17] [main/DEBUG]: Coremod plugin class FMLForgePlugin run successfully
+[12:59:17] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[12:59:17] [main/DEBUG]: Injecting coremod MixinLoader {net.ccbluex.liquidbounce.injection.forge.MixinLoader} class transformers
+[12:59:17] [main/DEBUG]: Injection complete
+[12:59:17] [main/DEBUG]: Running coremod plugin for MixinLoader {net.ccbluex.liquidbounce.injection.forge.MixinLoader}
+[12:59:31] [main/DEBUG]: Running coremod plugin MixinLoader
+[12:59:31] [main/DEBUG]: Coremod plugin class MixinLoader run successfully
+[12:59:31] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[12:59:31] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@3b582111
+[12:59:31] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[12:59:31] [main/DEBUG]: Loaded 165 rules from AccessTransformer config file forge_at.cfg
+[12:59:31] [main/DEBUG]: Validating minecraft
+[12:59:38] [main/INFO]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[12:59:38] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[12:59:38] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[12:59:38] [main/WARN]: Reference map 'liquidbounce.mixins.refmap.json' for liquidbounce.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:59:53] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[13:00:12] [Client thread/INFO]: Setting user: Player676
+[13:00:28] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:00:32] [Client thread/WARN]: =============================================================
+[13:00:32] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[13:00:32] [Client thread/WARN]: Offendor: com/sun/jna/Native.main([Ljava/lang/String;)V
+[13:00:32] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
+[13:00:32] [Client thread/WARN]: =============================================================
+[13:00:35] [Client thread/INFO]: Could not load splash.properties, will create a default one
+[13:00:35] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:246]: ---- Minecraft Crash Report ----
+// On the bright side, I bought you a teddy bear!
+
+Time: 12/5/2564, 13:00 น.
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.9
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.8.0_271, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 140415560 bytes (133 MB) / 326631424 bytes (311 MB) up to 954728448 bytes (910 MB)
+	JVM Flags: 1 total; -Xmx1024M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+MixinLoader (unknown)
+  
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '3.3.0' Renderer: 'GeForce 8400GS/PCIe/SSE2'
+[13:00:36] [Client thread/INFO]: MinecraftForge v11.15.1.2318 Initialized
+[13:00:37] [Client thread/INFO]: Replaced 229 ore recipies
+[13:00:38] [Thread-6/INFO]: [Shader] Successfully loaded: rainbow_font_shader.frag
+[13:00:39] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[13:00:39] [Client thread/INFO]: Searching C:\Users\sy.computer\Liqquidxdd\1.12.2-Forge\run\mods for mods
+[13:00:52] [Client thread/INFO]: Forge Mod Loader has identified 3 mods to load
+[13:00:53] [Client thread/INFO]: [org.apache.log4j.helpers.LogLog:warn:171]: log4j:WARN No appenders could be found for logger (io.netty.util.internal.logging.InternalLoggerFactory).
+[13:00:53] [Client thread/INFO]: [org.apache.log4j.helpers.LogLog:warn:171]: log4j:WARN Please initialize the log4j system properly.
+[13:00:53] [Client thread/INFO]: [org.apache.log4j.helpers.LogLog:warn:171]: log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[13:00:54] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at CLIENT
+[13:00:54] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
+[13:00:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[13:00:55] [Client thread/INFO]: Processing ObjectHolder annotations
+[13:00:55] [Client thread/INFO]: Found 384 ObjectHolder annotations
+[13:00:55] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[13:00:55] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[13:00:55] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[13:00:55] [Client thread/INFO]: Applying holder lookups
+[13:00:55] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[13:00:55] [Client thread/INFO]: Holder lookups applied
+[13:00:55] [Client thread/INFO]: Injecting itemstacks
+[13:00:55] [Client thread/INFO]: Itemstack injection complete
+[13:00:58] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:00:59] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[13:00:59] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:01:02] [Thread-8/INFO]: OpenAL initialized.
+[13:01:02] [Sound Library Loader/INFO]: Sound engine started
+[13:01:21] [Client thread/INFO]: Max texture size: 8192
+[13:01:21] [Client thread/INFO]: Created: 16x16 textures-atlas
+[13:01:25] [Client thread/INFO]: Injecting itemstacks
+[13:01:25] [Client thread/INFO]: Itemstack injection complete
+[13:01:25] [Client thread/INFO]: Forge Mod Loader has successfully loaded 3 mods
+[13:01:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[13:01:26] [Client thread/INFO]: SoundSystem shutting down...
+[13:01:26] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[13:01:26] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:01:26] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[13:01:26] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:01:26] [Thread-10/INFO]: OpenAL initialized.
+[13:01:27] [Sound Library Loader/INFO]: Sound engine started
+[13:01:43] [Client thread/INFO]: Max texture size: 8192
+[13:01:44] [Client thread/INFO]: Created: 512x512 textures-atlas
+[13:01:47] [Client thread/INFO]: Starting Mossware 0.2
+[13:01:47] [Client thread/INFO]: Getting info and listener
+[13:01:47] [Client thread/INFO]: Injecting into minecraft forge
+[13:01:47] [Client thread/INFO]: Starting!
+[13:01:50] [Client thread/INFO]: Loading Fonts.
+[13:01:50] [Client thread/INFO]: Downloading fonts from mossdatabase...
+[13:02:04] [Client thread/INFO]: Extracting fonts that download from mossdatabase...
+[13:02:04] [Client thread/INFO]: Finish extracting font!.
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: java.io.FileNotFoundException: .\Mossware-1.8\fonts\Roboto-Medium.ttf (The system cannot find the file specified)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.open0(Native Method)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.open(FileInputStream.java:195)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.ui.font.Fonts.getFont(Fonts.java:176)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.ui.font.Fonts.loadFonts(Fonts.java:48)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.LiquidBounce.startClient(LiquidBounce.kt:110)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.handler$startGame$zzf000(Minecraft.java:3186)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:496)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:329)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97)
+[13:02:04] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at GradleStart.main(GradleStart.java:26)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: java.io.FileNotFoundException: .\Mossware-1.8\fonts\Roboto-Medium.ttf (The system cannot find the file specified)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.open0(Native Method)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.open(FileInputStream.java:195)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.ui.font.Fonts.getFont(Fonts.java:176)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.ui.font.Fonts.loadFonts(Fonts.java:49)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.LiquidBounce.startClient(LiquidBounce.kt:110)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.handler$startGame$zzf000(Minecraft.java:3186)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:496)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:329)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at GradleStart.main(GradleStart.java:26)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: java.io.FileNotFoundException: .\Mossware-1.8\fonts\Roboto-Bold.ttf (The system cannot find the file specified)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.open0(Native Method)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.open(FileInputStream.java:195)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.ui.font.Fonts.getFont(Fonts.java:176)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.ui.font.Fonts.loadFonts(Fonts.java:50)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.LiquidBounce.startClient(LiquidBounce.kt:110)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.handler$startGame$zzf000(Minecraft.java:3186)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:496)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:329)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97)
+[13:02:11] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at GradleStart.main(GradleStart.java:26)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: java.io.FileNotFoundException: .\Mossware-1.8\fonts\arial.ttf (The system cannot find the file specified)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.open0(Native Method)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.open(FileInputStream.java:195)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.ui.font.Fonts.getFont(Fonts.java:176)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.ui.font.Fonts.loadFonts(Fonts.java:51)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.LiquidBounce.startClient(LiquidBounce.kt:110)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.handler$startGame$zzf000(Minecraft.java:3186)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:496)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:329)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at GradleStart.main(GradleStart.java:26)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: java.io.FileNotFoundException: .\Mossware-1.8\fonts\Comfortaa.ttf (The system cannot find the file specified)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.open0(Native Method)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.open(FileInputStream.java:195)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.ui.font.Fonts.getFont(Fonts.java:176)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.ui.font.Fonts.loadFonts(Fonts.java:52)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.LiquidBounce.startClient(LiquidBounce.kt:110)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.handler$startGame$zzf000(Minecraft.java:3186)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:496)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:329)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at GradleStart.main(GradleStart.java:26)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: java.io.FileNotFoundException: .\Mossware-1.8\fonts\Roboto-Light.ttf (The system cannot find the file specified)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.open0(Native Method)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.open(FileInputStream.java:195)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.ui.font.Fonts.getFont(Fonts.java:176)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.ui.font.Fonts.loadFonts(Fonts.java:53)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.ccbluex.liquidbounce.LiquidBounce.startClient(LiquidBounce.kt:110)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.handler$startGame$zzf000(Minecraft.java:3186)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:496)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.Minecraft.run(Minecraft.java:329)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97)
+[13:02:15] [Client thread/INFO]: [net.ccbluex.liquidbounce.ui.font.Fonts:getFont:182]: 	at GradleStart.main(GradleStart.java:26)
+[13:02:16] [Client thread/INFO]: Loaded Fonts. (25504ms)
+[13:02:16] [Client thread/INFO]: [ModuleManager] Loading modules...
+[13:02:47] [Client thread/INFO]: Mossware >> Loaded 143 modules.
+[13:02:47] [Client thread/INFO]: [Remapper] Downloading stable_22 srg...
+[13:02:51] [Client thread/INFO]: [Remapper] Downloaded stable_22.
+[13:02:51] [Client thread/INFO]: [Remapper] Loading srg...
+[13:02:51] [Client thread/INFO]: [Remapper] Loaded srg.
+[13:02:54] [Client thread/INFO]: [FileManager] Skipped loading config: modules.json.
+[13:02:54] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:02:54] [Client thread/INFO]: [FileManager] Skipped loading config: values.json.
+[13:02:57] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:02:57] [Client thread/INFO]: [FileManager] Skipped loading config: accounts.json.
+[13:02:57] [Client thread/INFO]: [FileManager] Saved config: accounts.json.
+[13:02:57] [Client thread/INFO]: [FileManager] Skipped loading config: friends.json.
+[13:02:57] [Client thread/INFO]: [FileManager] Saved config: friends.json.
+[13:02:57] [Client thread/INFO]: [FileManager] Skipped loading config: xray-blocks.json.
+[13:02:57] [Client thread/INFO]: [FileManager] Saved config: xray-blocks.json.
+[13:02:57] [Client thread/INFO]: [FileManager] Skipped loading config: shortcuts.json.
+[13:02:57] [Client thread/INFO]: [FileManager] Saved config: shortcuts.json.
+[13:02:58] [Client thread/INFO]: [FileManager] Skipped loading config: clickgui.json.
+[13:02:58] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:02:58] [Client thread/INFO]: Loading heads...
+[13:02:58] [Client thread/INFO]: Loading heads from https://headdb.org/api/category/all...
+[13:03:01] [Client thread/INFO]: Loaded 956 heads from HeadDB.
+[13:03:02] [Client thread/INFO]: Registered http://capes.liquidbounce.net/api/v1/cape/uuid/%s as 'api' service type.
+[13:03:02] [Client thread/INFO]: Loaded.
+[13:03:02] [Client thread/INFO]: [FileManager] Skipped loading config: hud.json.
+[13:03:02] [Client thread/INFO]: [FileManager] Saved config: hud.json.
+[13:03:09] [Client thread/INFO]: [Shader] Successfully loaded: background.frag
+[13:05:01] [Thread-19/INFO]: (MCChat)§7[§a§lChat§7] §9Connecting to chat server...
+[13:05:05] [Thread-19/INFO]: (MCChat)§7[§a§lChat§7] §9Connected to chat server!
+[13:05:09] [Client thread/INFO]: Connecting to 2187ge7821geu12he.ddns.net., 25565
+[13:05:13] [Netty Client IO #0/INFO]: Unexpected packet during modded negotiation - assuming vanilla or keepalives : net.minecraft.network.play.server.S47PacketPlayerListHeaderFooter
+[13:05:13] [Netty Client IO #0/INFO]: Aborting client handshake "VANILLA"
+[13:05:13] [Netty Client IO #0/INFO]: [Netty Client IO #0] Client side vanilla connection established
+[13:05:16] [Client thread/INFO]: [Shader] Successfully loaded: rainbow_shader.frag
+[13:05:27] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:05:27] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Bound module §a§lLongJump§3 to key §a§lB§3.
+[13:05:30] [Client thread/INFO]: [CHAT] NewRedesky, NewRedesky2
+[13:05:31] [Client thread/INFO]: [CHAT] NewRedesky, NewRedesky2
+[13:05:31] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:05:31] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7LongJump §8mode§7 was set to §8NewRedesky2§7.
+[13:05:34] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:05:34] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Enabled module §8Sprint§3.
+[13:05:35] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:05:36] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:05:40] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:05:42] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:05:48] [Client thread/INFO]: [CHAT] Conectando...
+[13:05:57] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:05:59] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:06:01] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:06:05] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:06:07] [Client thread/INFO]: Applying holder lookups
+[13:06:07] [Client thread/INFO]: Holder lookups applied
+[13:07:42] [Client thread/INFO]: Connecting to 2187ge7821geu12he.ddns.net., 25565
+[13:07:42] [Netty Client IO #1/INFO]: Unexpected packet during modded negotiation - assuming vanilla or keepalives : net.minecraft.network.play.server.S47PacketPlayerListHeaderFooter
+[13:07:42] [Netty Client IO #1/INFO]: Aborting client handshake "VANILLA"
+[13:07:42] [Netty Client IO #1/INFO]: [Netty Client IO #1] Client side vanilla connection established
+[13:07:49] [Client thread/INFO]: [CHAT] Você precisa estar autenticado para utilizar o chat.
+[13:07:52] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:07:54] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:08:01] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:08:02] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:08:07] [Client thread/INFO]: [CHAT] Conectando...
+[13:08:11] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:08:14] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:08:16] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:08:17] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:08:21] [Client thread/INFO]: [CHAT] NewRedesky, NewRedesky2
+[13:08:22] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:08:22] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7LongJump §8mode§7 was set to §8NewRedesky§7.
+[13:08:23] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:08:24] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:08:25] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:08:28] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:08:46] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:08:46] [Client thread/INFO]: [CHAT] §6[ANJ0S] §a[VIP] xDaTiber: cansei de viver, como faz?
+[13:08:47] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:08:55] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:08:55] [Client thread/WARN]: Failed to load texture: minecraft:/assets/minecraft/liquidbounce/custom_hud_icon.png
+java.io.FileNotFoundException: minecraft:/assets/minecraft/liquidbounce/custom_hud_icon.png
+	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:67) ~[FallbackResourceManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:64) ~[SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture.loadTexture(SourceFile:28) ~[SimpleTexture.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.loadTexture(TextureManager.java:67) [TextureManager.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.bindTexture(TextureManager.java:42) [TextureManager.class:?]
+	at net.ccbluex.liquidbounce.injection.backend.TextureManagerImpl.bindTexture(TextureManagerImpl.kt:17) [TextureManagerImpl.class:?]
+	at net.ccbluex.liquidbounce.utils.render.RenderUtils.drawImage(RenderUtils.java:480) [RenderUtils.class:?]
+	at net.ccbluex.liquidbounce.ui.client.clickgui.ClickGui.drawScreen(ClickGui.java:216) [ClickGui.class:?]
+	at net.ccbluex.liquidbounce.injection.backend.utils.GuiScreenWrapper.drawScreen(GuiScreenWrapper.kt:15) [GuiScreenWrapper.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:311) [ForgeHooksClient.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.updateCameraAndRender(EntityRenderer.java:1104) [EntityRenderer.class:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1051) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:349) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_271]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_271]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_271]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_271]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_271]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_271]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:26) [start/:?]
+[13:08:55] [Client thread/INFO]: [CHAT] [MVP] zYGxHS2 entrou neste lobby!
+[13:08:57] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:09:02] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:09:02] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Bound module §a§lKillAura§3 to key §a§lR§3.
+[13:09:05] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:09:05] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Bound module §a§lScaffold§3 to key §a§lZ§3.
+[13:09:07] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:09:07] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Bound module §a§lFly§3 to key §a§lF§3.
+[13:09:11] [Client thread/INFO]: [CHAT] Verus, VerusTest
+[13:09:11] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:11] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7Fly §8mode§7 was set to §8Verus§7.
+[13:09:11] [Client thread/INFO]: Lol fly
+[13:09:11] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:09:16] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:09:19] [Client thread/INFO]: Lol fly
+[13:09:19] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:09:20] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:09:21] [Client thread/INFO]: Lol fly
+[13:09:21] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:09:31] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:09:32] [Client thread/INFO]: Lol fly
+[13:09:32] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:09:36] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:09:37] [Client thread/INFO]: Lol fly
+[13:09:37] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:09:41] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:09:43] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:09:43] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:09:53] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:53] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:53] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:53] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:53] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:53] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:53] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:53] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:53] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:53] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:54] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:54] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:54] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:54] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:54] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:54] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:09:56] [Client thread/INFO]: [FileManager] Saved config: hud.json.
+[13:09:56] [Client thread/INFO]: Lol fly
+[13:09:56] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:10:01] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:10:09] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:10:25] [Client thread/INFO]: [CHAT] ----------------------------------
+
+ Sua conta pode estar em perigo!
+ Complete seu cadastro clicando AQUI!
+
+----------------------------------
+[13:10:31] [Client thread/INFO]: Lol fly
+[13:10:31] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:10:38] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:10:41] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:10:41] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Bound module §a§lSpeed§3 to key §a§lG§3.
+[13:10:45] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Syntax: §7.speed mode <ncphop/ncpyport/onground/aachop3.3.13/aachop3.5.0/aaclowhop/aaclowhop2/aaclowhop3/aacground/aacyport/oldaacbhop/spartanyport/hivehop/hypixel/cubecraft/mineplex/redeskyslow/redeskyfast/slowhop/custom>
+[13:10:47] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:10:47] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7Speed §8mode§7 was set to §8RedeskyFast§7.
+[13:10:48] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:10:49] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:10:49] [Client thread/INFO]: Lol fly
+[13:10:49] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:10:50] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:10:51] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:10:52] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:10:55] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:10:56] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:10:57] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:10:58] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:02] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:03] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:03] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:05] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:05] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Enabled module §8Rotations§3.
+[13:11:06] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:06] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:07] [Client thread/INFO]: Lol fly
+[13:11:07] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:10] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:11] [Client thread/INFO]: Lol fly
+[13:11:11] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:13] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:14] [Client thread/INFO]: Lol fly
+[13:11:14] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:22] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:23] [Client thread/INFO]: Lol fly
+[13:11:23] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:24] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:25] [Client thread/INFO]: Lol fly
+[13:11:25] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:29] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:30] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:31] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:33] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:34] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:40] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:43] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:51] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:53] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:56] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:56] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:58] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:58] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:11:59] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:12:01] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:12:05] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:12:05] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Bound module §a§lPhase§3 to key §a§lH§3.
+[13:12:08] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:12:08] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Bound module §a§lTower§3 to key §a§lX§3.
+[13:12:13] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:12:13] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Bound module §a§lChestStealer§3 to key §a§lN§3.
+[13:12:16] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:12:16] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7Phase §8mode§7 was set to §8AAC3.5.0§7.
+[13:12:20] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:12:21] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:12:25] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:12:25] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7ClickGUI §8scale§7 was set to §80.7§7.
+[13:12:25] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:12:32] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:12:36] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:12:39] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:12:40] [Client thread/INFO]: Lol fly
+[13:12:40] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:12:43] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:12:45] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:12:46] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:12:54] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:13:09] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:09] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:12] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:13] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:17] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:21] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:21] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:23] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:23] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:24] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:25] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:28] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:28] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:30] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:32] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:34] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:36] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:37] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:41] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:42] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:13:42] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:47] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:13:53] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:13:55] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:13:55] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Enabled module §8FastUse§3.
+[13:13:58] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:13:58] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7FastUse §8mode§7 was set to §8Instant§7.
+[13:14:03] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:07] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:08] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:11] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:14:12] [Client thread/INFO]: Lol fly
+[13:14:12] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:16] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:19] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:23] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:24] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:14:32] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:14:32] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:14:33] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:40] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:40] [Client thread/INFO]: Lol fly
+[13:14:40] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:41] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:42] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:43] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:43] [Client thread/INFO]: Lol fly
+[13:14:43] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:45] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:47] [Client thread/INFO]: Lol fly
+[13:14:47] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:48] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:48] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:49] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:50] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:55] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:14:55] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:14:55] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:14:56] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:14:56] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:58] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:14:58] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:15:00] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:15:00] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:15:00] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:15:01] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:15:02] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:15:05] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:15:05] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:15:05] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:15:09] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:15:11] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:15:12] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:15:13] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:15:13] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:15:31] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:15:36] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:15:37] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:15:39] [Client thread/INFO]: [CHAT] Buscando sala de Bed Wars Solo...
+[13:15:40] [Client thread/INFO]: [CHAT] Conectando...
+[13:15:42] [Client thread/INFO]: [CHAT] Moskau entrou na partida! (6/8)
+[13:15:42] [Client thread/INFO]: [CHAT] 
+ ✖ Você não está em uma partida Prime ➠ Verifique seu número de celular usando /celular e diminua suas chances de jogar contra hackers.
+
+[13:15:44] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:15:44] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Enabled module §8Velocity§3.
+[13:15:45] [Client thread/INFO]: [CHAT] O jogo começa em 5 segundos.
+[13:15:46] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:15:46] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Enabled module §8Fucker§3.
+[13:15:46] [Client thread/INFO]: [CHAT] O jogo começa em 4 segundos.
+[13:15:47] [Client thread/INFO]: [CHAT] O jogo começa em 3 segundos.
+[13:15:47] [Client thread/INFO]: [CHAT] ___Paradise___: S0beran hack foca ele
+[13:15:48] [Client thread/INFO]: [CHAT] O jogo começa em 2 segundos.
+[13:15:48] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:15:48] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7Fucker §8instant§7 was toggled §8on§7
+[13:15:49] [Client thread/INFO]: [CHAT] O jogo começa em 1 segundo.
+[13:15:50] [Client thread/INFO]: [CHAT] 
+ Como jogar Bed Wars?
+
+ Seu objetivo é proteger sua cama enquanto tenta destruir as camas de ilhas adversárias e eliminar os jogadores inimigos. Use os minérios gerados em sua ilha para adquirir itens e melhorias. Vencerá o último jogador ou equipe viva.
+
+[13:15:51] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:15:52] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:15:53] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:15:54] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:15:57] [Client thread/INFO]: [CHAT] 
+[13:15:57] [Client thread/INFO]: [CHAT] A cama do time Roxo foi destruída por Moskau!
+[13:15:57] [Client thread/INFO]: [CHAT]  
+[13:15:57] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:16:00] [Client thread/INFO]: [CHAT] 
+ AVISO! Aliar-se a outras equipes ou jogadores não é permitido e resulta em punição. Denuncie por meio do comando /reportar.
+
+[13:16:00] [Client thread/INFO]: [CHAT] [Azul] ArThUrRP__: hack lx
+[13:16:04] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:16:05] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:16:07] [Client thread/INFO]: [CHAT] DarkNicoPower foi morto por Moskau. ABATE FINAL!
+[13:16:07] [Client thread/INFO]: [CHAT] Todos os membros da equipe Roxo foram eliminados!
+[13:16:07] [Client thread/INFO]: [CHAT] Moskau eliminou a primeira vítima!
+[13:16:07] [Client thread/INFO]: [CHAT] + 3 ferros
+[13:16:07] [Client thread/INFO]: [CHAT] + 1 ouro
+[13:16:08] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:16:13] [Client thread/INFO]: [CHAT] [Vermelho] Moskau: lx is uwuware dev
+[13:16:15] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:16:17] [Client thread/INFO]: [CHAT] itsbipper abandonou a partida!
+[13:16:24] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:16:26] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:16:26] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:16:26] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:16:26] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:16:26] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:16:29] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:16:31] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:16:35] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:16:38] [Client thread/INFO]: [CHAT] Você comprou "Maçã Dourada" por 3 ouros!
+[13:16:39] [Client thread/INFO]: [CHAT] Você comprou "Espada de Pedra" por 10 ferros!
+[13:16:40] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:16:41] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:16:42] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:16:44] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:16:45] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:16:45] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:16:48] [Client thread/INFO]: [CHAT] ___Paradise___ foi morto por Moskau
+[13:16:52] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:16:52] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Enabled module §8NoSlow§3.
+[13:16:53] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:16:53] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7NoSlow §8packet§7 was toggled §8off§7.
+[13:16:55] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:16:55] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7NoSlow §8packet§7 was toggled §8on§7
+[13:16:57] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:16:58] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:17:00] [Client thread/INFO]: [CHAT] 
+[13:17:00] [Client thread/INFO]: [CHAT] A cama do time Branco foi destruída por Moskau!
+[13:17:00] [Client thread/INFO]: [CHAT]  
+[13:17:02] [Client thread/INFO]: [CHAT] ___Paradise___ foi morto por Moskau. ABATE FINAL!
+[13:17:02] [Client thread/INFO]: [CHAT] Todos os membros da equipe Branco foram eliminados!
+[13:17:02] [Client thread/INFO]: [CHAT] + 15 ferros
+[13:17:02] [Client thread/INFO]: [CHAT] + 6 ouros
+[13:17:03] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:17:08] [Client thread/INFO]: [CHAT] Você comprou "Maçã Dourada" por 3 ouros!
+[13:17:09] [Client thread/INFO]: [CHAT] Você comprou "Maçã Dourada" por 3 ouros!
+[13:17:10] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:17:10] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:17:11] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:17:15] [Client thread/INFO]: [CHAT] Moskau comprou a melhoria Armadura Reforçada I.
+[13:17:18] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:17:19] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:17:21] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:17:22] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:17:23] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:17:27] [Client thread/INFO]: Mossware >> Send notification!, turning off fastrender
+[13:17:27] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:17:35] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:17:38] [Client thread/INFO]: [CHAT] [Laranja] S0beran: lixo
+[13:17:40] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:17:42] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:17:43] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:17:44] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:17:45] [Client thread/INFO]: [CHAT] [Vermelho] Moskau: lixo
+[13:17:46] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:17:46] [Client thread/INFO]: [CHAT] 
+[13:17:46] [Client thread/INFO]: [CHAT] A cama do time Vermelho foi destruída por ArThUrRP__!
+[13:17:46] [Client thread/INFO]: [CHAT]  
+[13:17:47] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:17:47] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:17:48] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:17:53] [Client thread/INFO]: [CHAT] S0beran morreu sozinho!
+[13:17:54] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:17:54] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7Fucker §8surroundings§7 was toggled §8off§7.
+[13:17:57] [Client thread/INFO]: [CHAT] 
+[13:17:57] [Client thread/INFO]: [CHAT] A cama do time Laranja foi destruída por Moskau!
+[13:17:57] [Client thread/INFO]: [CHAT]  
+[13:18:04] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:18:05] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:18:23] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:18:24] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:18:30] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:18:36] [Client thread/INFO]: [CHAT] [Vermelho] Moskau: fuck u
+[13:18:36] [Client thread/INFO]: [CHAT] S0beran morreu sozinho!
+[13:18:36] [Client thread/INFO]: [CHAT] Você tem certeza? Utilize /lobby novamente para voltar ao lobby.
+[13:18:37] [Client thread/INFO]: [CHAT] Conectando...
+[13:18:43] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:18:44] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:18:45] [Client thread/INFO]: [CHAT] Buscando sala de Bed Wars Solo...
+[13:18:46] [Client thread/INFO]: [CHAT] 
+ Para vincular seu celular, execute:
+ /celular <código do país> <número com DDD>
+
+ DICA: Para celulares brasileiros, o código do país é 55.
+
+[13:18:46] [Client thread/INFO]: [CHAT] Conectando...
+[13:18:47] [Client thread/INFO]: [CHAT] Moskau entrou na partida! (5/8)
+[13:18:47] [Client thread/INFO]: [CHAT] 
+ ✖ Você não está em uma partida Prime ➠ Verifique seu número de celular usando /celular e diminua suas chances de jogar contra hackers.
+
+[13:18:48] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:18:52] [Client thread/INFO]: [CHAT] ArThUrRP__: tem hack
+[13:18:55] [Client thread/INFO]: [CHAT] Moskau: no tem
+[13:18:59] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:19:00] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:19:00] [Client thread/INFO]: [CHAT] ArThUrRP__: Moskau
+[13:19:01] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:19:03] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:19:05] [Client thread/INFO]: [CHAT] Moskau: no
+[13:19:06] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:19:08] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:19:18] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:19:18] [Client thread/INFO]: [CHAT] ArThUrRP__: Moskau é hack rapaziada
+[13:19:20] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:19:23] [Client thread/INFO]: [CHAT] Moskau: idiot no brain
+[13:19:27] [Client thread/INFO]: [CHAT] ximbaaa entrou na partida! (6/8)
+[13:19:28] [Client thread/INFO]: [CHAT] Moskau: u also hack
+[13:19:30] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:19:32] [Client thread/INFO]: [CHAT] Moskau: i see u longjump
+[13:19:32] [Client thread/INFO]: [CHAT] O jogo começa em 5 segundos.
+[13:19:33] [Client thread/INFO]: [CHAT] O jogo começa em 4 segundos.
+[13:19:34] [Client thread/INFO]: [CHAT] O jogo começa em 3 segundos.
+[13:19:35] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:19:35] [Client thread/INFO]: [CHAT] O jogo começa em 2 segundos.
+[13:19:36] [Client thread/INFO]: [CHAT] ArThUrRP__: SURRA DE PAU MOle
+[13:19:36] [Client thread/INFO]: [CHAT] O jogo começa em 1 segundo.
+[13:19:36] [Client thread/INFO]: [CHAT] Moskau: lol idiot
+[13:19:37] [Client thread/INFO]: [CHAT] 
+ Como jogar Bed Wars?
+
+ Seu objetivo é proteger sua cama enquanto tenta destruir as camas de ilhas adversárias e eliminar os jogadores inimigos. Use os minérios gerados em sua ilha para adquirir itens e melhorias. Vencerá o último jogador ou equipe viva.
+
+[13:19:44] [Client thread/INFO]: [CHAT] misaeldelima244 abandonou a partida!
+[13:19:47] [Client thread/INFO]: [CHAT] 
+ AVISO! Aliar-se a outras equipes ou jogadores não é permitido e resulta em punição. Denuncie por meio do comando /reportar.
+
+[13:19:48] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:19:48] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:19:48] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:19:50] [Client thread/INFO]: [CHAT] [Vermelho] ximbaaa: salve seus punheteiro
+[13:19:56] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:19:56] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:19:56] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:19:57] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:19:57] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:19:57] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:19:58] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:19:59] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:00] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:03] [Client thread/INFO]: [CHAT] S0beran morreu sozinho!
+[13:20:03] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:04] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:18] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:19] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:23] [Client thread/INFO]: [CHAT] Moskau morreu sozinho!
+[13:20:25] [Client thread/INFO]: [CHAT] Comando desconhecido.
+[13:20:25] [Client thread/INFO]: [CHAT] ----------------------------------
+
+ Sua conta pode estar em perigo!
+ Complete seu cadastro clicando AQUI!
+
+----------------------------------
+[13:20:27] [Client thread/INFO]: [CHAT] §6§l AAC §r§fLicenced to http://spigotmc.org/members/18015
+[13:20:28] [Client thread/INFO]: [CHAT] Comando desconhecido.
+[13:20:31] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:20:31] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:20:32] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:20:32] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:20:33] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:34] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:36] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:37] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:40] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:41] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:44] [Client thread/INFO]: [CHAT] Você tem certeza? Utilize /lobby novamente para voltar ao lobby.
+[13:20:45] [Client thread/INFO]: [CHAT] Conectando...
+[13:20:48] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:49] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:51] [Client thread/INFO]: [CHAT] Buscando sala de Bed Wars Solo...
+[13:20:51] [Client thread/INFO]: [CHAT] Conectando...
+[13:20:53] [Client thread/INFO]: [CHAT] Moskau entrou na partida! (2/8)
+[13:20:53] [Client thread/INFO]: [CHAT] 
+ ✖ Você não está em uma partida Prime ➠ Verifique seu número de celular usando /celular e diminua suas chances de jogar contra hackers.
+
+[13:20:55] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:56] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:57] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:20:58] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:21:03] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:21:03] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:21:17] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:17] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7Fucker §8rotations§7 was toggled §8off§7.
+[13:21:26] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:26] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7Fucker §8rotations§7 was toggled §8on§7
+[13:21:27] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:21:27] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:21:29] [Client thread/INFO]: [CHAT] Você tem certeza? Utilize /lobby novamente para voltar ao lobby.
+[13:21:30] [Client thread/INFO]: [CHAT] Conectando...
+[13:21:34] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:21:35] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:21:37] [Client thread/INFO]: [CHAT] Buscando sala de Bed Wars Solo...
+[13:21:38] [Client thread/INFO]: [CHAT] Conectando...
+[13:21:39] [Client thread/INFO]: [CHAT] Moskau entrou na partida! (2/8)
+[13:21:39] [Client thread/INFO]: [CHAT] 
+ ✖ Você não está em uma partida Prime ➠ Verifique seu número de celular usando /celular e diminua suas chances de jogar contra hackers.
+
+[13:21:40] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:21:40] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:21:46] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:46] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:46] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:46] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:46] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:46] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:46] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:46] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:46] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:46] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:46] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:46] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:46] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:47] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:47] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:47] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:49] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:49] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:49] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:49] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:49] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:49] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:49] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:51] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:51] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:54] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:54] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:54] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:54] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:21:55] [Client thread/INFO]: [FileManager] Saved config: hud.json.
+[13:21:56] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:21:57] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:21:58] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:00] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:01] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:03] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:06] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:08] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:10] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:11] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:13] [Client thread/INFO]: [CHAT] itsbipper entrou na partida! (3/8)
+[13:22:14] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:15] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:27] [Client thread/INFO]: [CHAT] NewRedesky, NewRedesky2
+[13:22:27] [Client thread/INFO]: [CHAT] NewRedesky, NewRedesky2
+[13:22:27] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:22:27] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7LongJump §8mode§7 was set to §8NewRedesky2§7.
+[13:22:28] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:29] [Client thread/INFO]: [CHAT] SolarSoph entrou na partida! (4/8)
+[13:22:29] [Client thread/INFO]: [CHAT] zTravecao entrou na partida! (5/8)
+[13:22:29] [Client thread/INFO]: [CHAT] yKittyzada_ entrou na partida! (6/8)
+[13:22:29] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:31] [Client thread/INFO]: [CHAT] ximbaaa entrou na partida! (7/8)
+[13:22:32] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:22:32] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7LongJump §8mode§7 was set to §8NewRedesky§7.
+[13:22:34] [Client thread/INFO]: [CHAT] O jogo começa em 5 segundos.
+[13:22:35] [Client thread/INFO]: [CHAT] O jogo começa em 4 segundos.
+[13:22:36] [Client thread/INFO]: [CHAT] O jogo começa em 3 segundos.
+[13:22:37] [Client thread/INFO]: [CHAT] FanAssasinka123 entrou na partida! (8/8)
+[13:22:37] [Client thread/INFO]: [CHAT] O jogo começa em 2 segundos.
+[13:22:38] [Client thread/INFO]: [CHAT] O jogo começa em 1 segundo.
+[13:22:39] [Client thread/INFO]: [CHAT] 
+ Como jogar Bed Wars?
+
+ Seu objetivo é proteger sua cama enquanto tenta destruir as camas de ilhas adversárias e eliminar os jogadores inimigos. Use os minérios gerados em sua ilha para adquirir itens e melhorias. Vencerá o último jogador ou equipe viva.
+
+[13:22:41] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:41] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:45] [Client thread/INFO]: [CHAT] [Laranja] ximbaaa: HI
+[13:22:48] [Client thread/INFO]: [CHAT] [Branco] Moskau: hi
+[13:22:49] [Client thread/INFO]: [CHAT] 
+ AVISO! Aliar-se a outras equipes ou jogadores não é permitido e resulta em punição. Denuncie por meio do comando /reportar.
+
+[13:22:49] [Client thread/INFO]: [CHAT] [Ciano] yKittyzada_: ainnn fode meu cuu
+[13:22:51] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:51] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Enabled module §8ESP§3.
+[13:22:51] [Client thread/INFO]: [CHAT] [Verde] zTravecao: da uma mamadinha aq
+[13:22:52] [Client thread/INFO]: [CHAT] [Laranja] ximbaaa: turu bom?
+[13:22:53] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:22:53] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Enabled module §8NameTags§3.
+[13:23:00] [Client thread/INFO]: [CHAT] [Laranja] ximbaaa: ss...
+[13:23:03] [Client thread/INFO]: [CHAT] Moskau morreu sozinho!
+[13:23:06] [Client thread/INFO]: [CHAT] Não é possível utilizar o chat enquanto você estiver espectando.
+[13:23:07] [Client thread/INFO]: [CHAT] [Laranja] ximbaaa: 10 centavo a mamadinha...
+[13:23:09] [Client thread/INFO]: [CHAT] [Branco] Moskau: ts
+[13:23:10] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:23:11] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:23:14] [Client thread/INFO]: [CHAT] [Laranja] ximbaaa: dsclp
+[13:23:17] [Client thread/INFO]: [CHAT] [Verde] zTravecao: se piscar me deve uma mamada
+[13:23:19] [Client thread/INFO]: [CHAT] [Laranja] ximbaaa: tenho tourette '-'
+[13:23:20] [Client thread/INFO]: [CHAT] Você não pode enviar uma mensagem tão parecida com a anterior.
+[13:23:22] [Client thread/INFO]: [CHAT] [Branco] Moskau: s
+[13:23:22] [Client thread/INFO]: [CHAT] Moskau morreu sozinho!
+[13:23:23] [Client thread/INFO]: [CHAT] [Roxo] RedYoloBr: rosa xitado
+[13:23:26] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:23:26] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Enabled module §8NameProtect§3.
+[13:23:27] [Client thread/INFO]: [CHAT] [Verde] zTravecao: eu tenho sindrome de torrent
+[13:23:27] [Client thread/INFO]: [CHAT] [Vermelho] SolarSoph: c respirar ja sabe tem que dar uma sugada
+[13:23:28] [Client thread/INFO]: [CHAT] [Branco] Moskau: a
+[13:23:34] [Client thread/INFO]: [CHAT] FanAssasinka123 foi morto por RedYoloBr
+[13:23:34] [Client thread/INFO]: [CHAT] RedYoloBr eliminou a primeira vítima!
+[13:23:34] [Client thread/INFO]: [CHAT] [Verde] zTravecao: a cada palavrão é um arquivo baixado
+[13:23:39] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:23:39] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7NameProtect §8fakename§7 was set to §8itsrdeef5§7.
+[13:23:41] [Client thread/INFO]: [CHAT] [Roxo] RedYoloBr: ah mano olha o cara xitado
+[13:23:46] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:23:46] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:23:46] [Client thread/INFO]: [CHAT] [Laranja] ximbaaa: vermelho...
+[13:23:47] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:23:48] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:23:51] [Client thread/INFO]: [CHAT] Você comprou "Espada de Pedra" por 10 ferros!
+[13:23:53] [Client thread/INFO]: [CHAT] Você comprou "Maçã Dourada" por 3 ouros!
+[13:23:58] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:23:59] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:24:01] [Client thread/INFO]: [CHAT] 
+[13:24:01] [Client thread/INFO]: [CHAT] A cama do time Roxo foi destruída por FanAssasinka123!
+[13:24:01] [Client thread/INFO]: [CHAT]  
+[13:24:01] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:24:02] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:24:04] [Client thread/INFO]: [CHAT] RedYoloBr foi morto por FanAssasinka123. ABATE FINAL!
+[13:24:06] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:24:07] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:24:08] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:24:09] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:24:11] [Client thread/INFO]: [CHAT] 
+[13:24:11] [Client thread/INFO]: [CHAT] A cama do time Ciano foi destruída por Moskau!
+[13:24:11] [Client thread/INFO]: [CHAT]  
+[13:24:12] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:24:15] [Client thread/INFO]: [CHAT] [Laranja] ximbaaa: gauy
+[13:24:17] [Client thread/INFO]: [CHAT] ximbaaa foi morto por SolarSoph
+[13:24:23] [Client thread/INFO]: [CHAT] [Laranja] ximbaaa: escrevi errado dkaskdas
+[13:24:23] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:24:34] [Client thread/INFO]: [CHAT] ximbaaa morreu sozinho!
+[13:24:35] [Client thread/INFO]: [CHAT] 
+[13:24:35] [Client thread/INFO]: [CHAT] A cama do time Laranja foi destruída por SolarSoph!
+[13:24:35] [Client thread/INFO]: [CHAT]  
+[13:24:41] [Client thread/INFO]: [CHAT] [Vermelho] SolarSoph: ai ai
+[13:24:42] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:24:44] [Client thread/INFO]: [CHAT] SolarSoph morreu sozinho!
+[13:24:45] [Client thread/INFO]: [CHAT] yKittyzada_ foi morto por Moskau. ABATE FINAL!
+[13:24:45] [Client thread/INFO]: [CHAT] Todos os membros da equipe Ciano foram eliminados!
+[13:24:45] [Client thread/INFO]: [CHAT] + 2 ferros
+[13:24:45] [Client thread/INFO]: [CHAT] + 12 ouros
+[13:24:45] [Client thread/INFO]: [CHAT] [Laranja] ximbaaa: me deve uma sugada
+[13:24:49] [Client thread/INFO]: [CHAT] zTravecao foi morto por itsbipper
+[13:24:50] [Client thread/INFO]: [CHAT] Você comprou "TNT" por 5 ouros!
+[13:24:52] [Client thread/INFO]: [CHAT] [Laranja] ximbaaa: ;v
+[13:24:54] [Client thread/INFO]: [CHAT] FanAssasinka123 morreu sozinho!
+[13:24:55] [Client thread/INFO]: [CHAT] [Vermelho] SolarSoph: c nem leva pra jantar sai dessa
+[13:24:57] [Client thread/INFO]: [CHAT] Você comprou "Armadura de Ferro" por 12 ouros!
+[13:24:58] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:24:59] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:25:00] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:25:00] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:25:01] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:25:03] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:25:04] [Client thread/INFO]: [CHAT] [Verde] zTravecao: pinto
+[13:25:06] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:25:07] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:25:08] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:25:12] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:25:12] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Enabled module §8NoFall§3.
+[13:25:12] [Client thread/INFO]: [CHAT] [Laranja] ximbaaa: amanhã q tal?
+[13:25:13] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:25:13] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:25:14] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:25:14] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:25:16] [Client thread/INFO]: [CHAT] [Vermelho] SolarSoph: q hrs
+[13:25:29] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:25:29] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Disabled module §8Rotations§3.
+[13:25:31] [Client thread/INFO]: [CHAT] zTravecao foi morto por itsbipper
+[13:25:32] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:25:33] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:25:34] [Client thread/INFO]: Lol fly
+[13:25:34] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:25:34] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:25:38] [Client thread/INFO]: [CHAT] Moskau morreu sozinho!
+[13:25:49] [Client thread/INFO]: [CHAT] zTravecao foi morto por itsbipper
+[13:25:59] [Client thread/INFO]: [CHAT] zTravecao foi morto por itsbipper
+[13:25:59] [Client thread/INFO]: [CHAT] [Laranja] ximbaaa: minhas punheta vol.75
+[13:26:00] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:26:00] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:26:01] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:26:01] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:26:02] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:26:03] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:26:03] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:26:04] [Client thread/INFO]: [CHAT] 
+[13:26:04] [Client thread/INFO]: [CHAT] A cama do time Verde foi destruída por itsbipper!
+[13:26:04] [Client thread/INFO]: [CHAT]  
+[13:26:06] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:26:07] [Client thread/INFO]: [CHAT] Você comprou "Maçã Dourada" por 3 ouros!
+[13:26:08] [Client thread/INFO]: [CHAT] Você comprou "Maçã Dourada" por 3 ouros!
+[13:26:08] [Client thread/INFO]: [CHAT] itsbipper foi morto por zTravecao
+[13:26:08] [Client thread/INFO]: [CHAT] Você comprou "Maçã Dourada" por 3 ouros!
+[13:26:11] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:26:12] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:26:14] [Client thread/INFO]: [CHAT] [Vermelho] SolarSoph: ximbaa
+[13:26:14] [Client thread/INFO]: [CHAT] zTravecao morreu sozinho!
+[13:26:15] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:26:15] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:26:17] [Client thread/INFO]: [CHAT] [Vermelho] SolarSoph: 69?
+[13:26:24] [Client thread/INFO]: [CHAT] [Laranja] ximbaaa: '-'
+[13:26:25] [Client thread/INFO]: [CHAT] [Branco] Moskau: 70
+[13:26:37] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:26:37] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:26:42] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:26:43] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:26:48] [Client thread/INFO]: [CHAT] [Laranja] ximbaaa: gay
+[13:26:48] [Client thread/INFO]: [CHAT] [Vermelho] SolarSoph: '-
+[13:26:49] [Client thread/INFO]: [CHAT] ximbaaa foi morto por Moskau. ABATE FINAL!
+[13:26:49] [Client thread/INFO]: [CHAT] Todos os membros da equipe Laranja foram eliminados!
+[13:26:49] [Client thread/INFO]: [CHAT] + 1 diamante
+[13:26:51] [Client thread/INFO]: [CHAT] [Branco] Moskau: thanks
+[13:26:51] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:26:52] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:26:54] [Client thread/INFO]: [CHAT] SolarSoph foi morto por Moskau
+[13:26:54] [Client thread/INFO]: [CHAT] + 1 diamante
+[13:26:54] [Client thread/INFO]: [CHAT] + 23 ferros
+[13:26:54] [Client thread/INFO]: [CHAT] + 8 ouros
+[13:26:57] [Client thread/INFO]: [CHAT] 
+[13:26:57] [Client thread/INFO]: [CHAT] A cama do time Vermelho foi destruída por Moskau!
+[13:26:57] [Client thread/INFO]: [CHAT]  
+[13:27:00] [Client thread/INFO]: [CHAT] [Vermelho] SolarSoph: ain
+[13:27:04] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:27:04] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:27:09] [Client thread/INFO]: [CHAT] SolarSoph foi morto por Moskau. ABATE FINAL!
+[13:27:09] [Client thread/INFO]: [CHAT] Todos os membros da equipe Vermelho foram eliminados!
+[13:27:09] [Client thread/INFO]: [CHAT] + 10 ferros
+[13:27:11] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:27:21] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:27:23] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:27:23] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:27:28] [Client thread/INFO]: [CHAT] Você comprou "Maçã Dourada" por 3 ouros!
+[13:27:29] [Client thread/INFO]: [CHAT] Você comprou "Maçã Dourada" por 3 ouros!
+[13:27:29] [Client thread/INFO]: [CHAT] Você comprou "Maçã Dourada" por 3 ouros!
+[13:27:35] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:27:36] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:27:39] [Client thread/INFO]: [CHAT] 
+[13:27:39] [Client thread/INFO]: [CHAT]  Geradores de Diamantes aprimorados!
+[13:27:39] [Client thread/INFO]: [CHAT]  Agora os geradores produzem mais diamantes!
+[13:27:39] [Client thread/INFO]: [CHAT]  
+[13:27:39] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:27:40] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:27:41] [Client thread/INFO]: [CHAT] FanAssasinka123 morreu sozinho!
+[13:27:43] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:27:45] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:27:49] [Client thread/INFO]: [CHAT] 
+ AVISO! Aliar-se a outras equipes ou jogadores não é permitido e resulta em punição. Denuncie por meio do comando /reportar.
+
+[13:27:51] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:27:51] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:27:57] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:27:57] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:00] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:06] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:07] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:08] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:13] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:28:13] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:28:13] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:15] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:18] [Client thread/INFO]: Applying holder lookups
+[13:28:18] [Client thread/INFO]: Holder lookups applied
+[13:28:19] [Client thread/INFO]: Connecting to 2187ge7821geu12he.ddns.net., 25565
+[13:28:20] [Netty Client IO #2/INFO]: Unexpected packet during modded negotiation - assuming vanilla or keepalives : net.minecraft.network.play.server.S47PacketPlayerListHeaderFooter
+[13:28:20] [Netty Client IO #2/INFO]: Aborting client handshake "VANILLA"
+[13:28:20] [Netty Client IO #2/INFO]: [Netty Client IO #2] Client side vanilla connection established
+[13:28:27] [Client thread/INFO]: [CHAT] Conectando...
+[13:28:31] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Module 'autoa' not found.
+[13:28:33] [Client thread/INFO]: [CHAT] .inventorymove, .inventorycleaner
+[13:28:33] [Client thread/INFO]: [CHAT] .inventorymove, .inventorycleaner
+[13:28:35] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:28:35] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7InventoryCleaner §8invopen§7 was toggled §8on§7
+[13:28:37] [Client thread/INFO]: [CHAT] InventoryCleaner, InventoryMove
+[13:28:37] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:37] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Enabled module §8InventoryCleaner§3.
+[13:28:40] [Client thread/INFO]: [CHAT] Conectando...
+[13:28:43] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:43] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:45] [Client thread/INFO]: [CHAT] Buscando sala de Sky Wars Solo...
+[13:28:45] [Client thread/INFO]: [CHAT] Conectando...
+[13:28:47] [Client thread/INFO]: [CHAT] Moskau entrou na partida! (10/12)
+[13:28:47] [Client thread/INFO]: [CHAT] 
+ ✖ Você não está em uma partida Prime ➠ Verifique seu número de celular usando /celular e diminua suas chances de jogar contra hackers.
+
+[13:28:47] [Client thread/INFO]: [CHAT] O jogo começa em 30 segundos.
+[13:28:47] [Client thread/INFO]: [CHAT] [MVP] FelipeGamesYT: pse
+[13:28:49] [Client thread/INFO]: [CHAT] demonYuzing entrou na partida! (11/12)
+[13:28:49] [Client thread/INFO]: [CHAT] sempano_gamer123: eu to partida prime
+[13:28:49] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:50] [Client thread/INFO]: [CHAT] AyresBuenoYt_: Ja saiu da sela
+[13:28:51] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:51] [Client thread/INFO]: [CHAT] ZA1N__TOpro entrou na partida! (12/12)
+[13:28:51] [Client thread/INFO]: [CHAT] Sala lotada! O temporizador foi reduzido para 10 segundos.
+[13:28:53] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:53] [Client thread/INFO]: [CHAT] 3fd22e59c9618e60 saiu da partida! (11/12)
+[13:28:54] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:55] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:55] [Client thread/INFO]: [CHAT] AyresBuenoYt_: venho em min
+[13:28:56] [Client thread/INFO]: [CHAT] O jogo começa em 5 segundos.
+[13:28:56] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:57] [Client thread/INFO]: [CHAT] O jogo começa em 4 segundos.
+[13:28:57] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:58] [Client thread/INFO]: [CHAT] JoOtaky entrou na partida! (12/12)
+[13:28:58] [Client thread/INFO]: [CHAT] O jogo começa em 3 segundos.
+[13:28:58] [Client thread/INFO]: [CHAT] demonYuzing: fdps
+[13:28:59] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:28:59] [Client thread/INFO]: [CHAT] O jogo começa em 2 segundos.
+[13:28:59] [Client thread/INFO]: [CHAT] [MVP] Burguesisbal: tem pouca pq tem gerente banindo
+[13:29:00] [Client thread/INFO]: [CHAT] AyresBuenoYt_: reporta
+[13:29:00] [Client thread/INFO]: [CHAT] O jogo começa em 1 segundo.
+[13:29:01] [Client thread/INFO]: [CHAT] 
+ Como jogar Sky Wars?
+
+ Utilize os itens encontrados em baús em sua ilha para se equipar, eliminar outros jogadores e chegar ao centro do mapa, onde encontrará itens ainda melhores. É um jogo rápido de muito combate. Vencerá o último jogador ou equipe viva.
+
+[13:29:01] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:02] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:03] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:04] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:04] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:07] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:07] [Client thread/INFO]: [CHAT] johnseventeenfiv eliminou a primeira vítima!
+[13:29:07] [Client thread/INFO]: [CHAT] AyresBuenoYt_ foi morto por johnseventeenfiv.
+[13:29:07] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:09] [Client thread/INFO]: [CHAT] Você tem certeza? Utilize /lobby novamente para voltar ao lobby.
+[13:29:09] [Client thread/INFO]: [CHAT] Conectando...
+[13:29:15] [Client thread/INFO]: [CHAT] Conectando...
+[13:29:19] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:21] [Client thread/INFO]: [CHAT] Conectando...
+[13:29:25] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:26] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:31] [Client thread/INFO]: [CHAT] Buscando sala de Bed Wars Solo...
+[13:29:31] [Client thread/INFO]: [CHAT] Conectando...
+[13:29:33] [Client thread/INFO]: [CHAT] Moskau entrou na partida! (3/8)
+[13:29:33] [Client thread/INFO]: [CHAT] 
+ ✖ Você não está em uma partida Prime ➠ Verifique seu número de celular usando /celular e diminua suas chances de jogar contra hackers.
+
+[13:29:35] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:36] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:38] [Client thread/INFO]: [CHAT] yMaryX entrou na partida! (4/8)
+[13:29:38] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:40] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:41] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:42] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:44] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:45] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:47] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:48] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:49] [Client thread/INFO]: [CHAT] yMaryX saiu da partida! (3/8)
+[13:29:52] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:53] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:29:58] [Client thread/INFO]: [CHAT] Moskau: hi hacker
+[13:29:59] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:30:00] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:30:04] [Client thread/INFO]: [CHAT] Moskau: oof
+[13:30:07] [Client thread/INFO]: [CHAT] 3fd22e59c9618e60 saiu da partida! (2/8)
+[13:30:09] [Client thread/INFO]: [CHAT] lokisin entrou na partida! (3/8)
+[13:30:09] [Client thread/INFO]: [CHAT] minaleex entrou na partida! (4/8)
+[13:30:09] [Client thread/INFO]: [CHAT] xX_shanes_Xx entrou na partida! (5/8)
+[13:30:12] [Client thread/INFO]: [CHAT] RedYoloBr entrou na partida! (6/8)
+[13:30:14] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:30:15] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:30:17] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:30:17] [Client thread/INFO]: [CHAT] O jogo começa em 5 segundos.
+[13:30:17] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:30:18] [Client thread/INFO]: [CHAT] O jogo começa em 4 segundos.
+[13:30:19] [Client thread/INFO]: [CHAT] O jogo começa em 3 segundos.
+[13:30:20] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:30:20] [Client thread/INFO]: [CHAT] O jogo começa em 2 segundos.
+[13:30:21] [Client thread/INFO]: [CHAT] O jogo começa em 1 segundo.
+[13:30:22] [Client thread/INFO]: [CHAT] 
+ Como jogar Bed Wars?
+
+ Seu objetivo é proteger sua cama enquanto tenta destruir as camas de ilhas adversárias e eliminar os jogadores inimigos. Use os minérios gerados em sua ilha para adquirir itens e melhorias. Vencerá o último jogador ou equipe viva.
+
+[13:30:23] [Client thread/INFO]: [CHAT] 
+[13:30:23] [Client thread/INFO]: [CHAT] A cama do time Branco foi destruída por Moskau!
+[13:30:23] [Client thread/INFO]: [CHAT]  
+[13:30:28] [Client thread/INFO]: [CHAT] [Verde] RedYoloBr: fudidoMDSSSSSSS
+[13:30:29] [Client thread/INFO]: [CHAT] lokisin foi morto por Moskau. ABATE FINAL!
+[13:30:29] [Client thread/INFO]: [CHAT] Moskau eliminou a primeira vítima!
+[13:30:30] [Client thread/INFO]: [CHAT] ----------------------------------
+
+ Sua conta pode estar em perigo!
+ Complete seu cadastro clicando AQUI!
+
+----------------------------------
+[13:30:31] [Client thread/INFO]: [CHAT] minaleex abandonou a partida!
+[13:30:32] [Client thread/INFO]: [CHAT] 
+ AVISO! Aliar-se a outras equipes ou jogadores não é permitido e resulta em punição. Denuncie por meio do comando /reportar.
+
+[13:30:33] [Client thread/INFO]: [CHAT] [Rosa] Moskau: mdsss!11!!!
+[13:30:39] [Client thread/INFO]: [CHAT] [Verde] RedYoloBr: SEU MERDA
+[13:30:40] [Client thread/INFO]: [CHAT] Comando desconhecido.
+[13:30:40] [Client thread/INFO]: [CHAT] Mensagem de lokisin: hack lx
+[13:30:41] [Client thread/INFO]: Lol fly
+[13:30:41] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:30:41] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:30:43] [Client thread/INFO]: [CHAT] [Laranja] xX_shanes_Xx: insano fdp
+[13:30:44] [Client thread/INFO]: [CHAT] Mensagem para lokisin: fuck off
+[13:30:45] [Client thread/INFO]: [CHAT] [Verde] RedYoloBr: USA HACKE EM MINECRAFT MANO
+[13:30:51] [Client thread/INFO]: [CHAT] [Rosa] Moskau: fdp client trash
+[13:30:53] [Client thread/INFO]: [CHAT] xX_shanes_Xx abandonou a partida!
+[13:30:54] [Client thread/INFO]: [CHAT] [Rosa] Moskau: LIXO
+[13:30:56] [Client thread/INFO]: [CHAT] Você comprou "Espada de Pedra" por 10 ferros!
+[13:30:57] [Client thread/INFO]: [CHAT] [Verde] RedYoloBr: xiu lixo fudido
+[13:30:58] [Client thread/INFO]: [CHAT] Você comprou "Maçã Dourada" por 3 ouros!
+[13:31:00] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:01] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:02] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:03] [Client thread/INFO]: [CHAT] [Verde] RedYoloBr: tu usa hack em jogo quadrado
+[13:31:03] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:04] [Client thread/INFO]: [CHAT] 
+[13:31:04] [Client thread/INFO]: [CHAT] A cama do time Verde foi destruída por Moskau!
+[13:31:04] [Client thread/INFO]: [CHAT]  
+[13:31:07] [Client thread/INFO]: [CHAT] [Rosa] Moskau: fuck off
+[13:31:08] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:08] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:11] [Client thread/INFO]: [CHAT] RedYoloBr foi morto por Moskau. ABATE FINAL!
+[13:31:11] [Client thread/INFO]: [CHAT] Todos os membros da equipe Verde foram eliminados!
+[13:31:11] [Client thread/INFO]: [CHAT] + 5 ouros
+[13:31:11] [Client thread/INFO]: [CHAT] + 18 ferros
+[13:31:13] [Client thread/INFO]: [CHAT] [Rosa] Moskau: kids
+[13:31:17] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:31:18] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:31:18] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:31:19] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:31:19] [Client thread/INFO]: [CHAT] Você não possui ferros suficientes para comprar este item.
+[13:31:21] [Client thread/INFO]: [CHAT] Você comprou "Maçã Dourada" por 3 ouros!
+[13:31:24] [Client thread/INFO]: [CHAT] Moskau comprou a melhoria Armadura Reforçada I.
+[13:31:27] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:29] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:31] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:36] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:31:38] [Client thread/INFO]: [FileManager] Saved config: clickgui.json.
+[13:31:43] [Client thread/INFO]: [CHAT] Motion, MotionTP
+[13:31:43] [Client thread/INFO]: [CHAT] Motion, MotionTP
+[13:31:43] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:31:43] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7Tower §8mode§7 was set to §8MotionTP§7.
+[13:31:44] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:45] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:46] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:46] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:47] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:48] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:48] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:50] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:55] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:31:56] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:00] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:01] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:03] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:04] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:06] [Client thread/INFO]: [CHAT] 
+[13:32:06] [Client thread/INFO]: [CHAT] A cama do time Roxo foi destruída por Moskau!
+[13:32:06] [Client thread/INFO]: [CHAT]  
+[13:32:09] [Client thread/INFO]: [CHAT] sorvetinho277 foi morto por Moskau. ABATE FINAL!
+[13:32:09] [Client thread/INFO]: [CHAT] + 8 ferros
+[13:32:11] [Client thread/INFO]: [CHAT] Buscando sala de Bed Wars Solo...
+[13:32:12] [Client thread/INFO]: [CHAT] Conectando...
+[13:32:14] [Client thread/INFO]: [CHAT] Moskau entrou na partida! (7/8)
+[13:32:14] [Client thread/INFO]: [CHAT] 
+ ✖ Você não está em uma partida Prime ➠ Verifique seu número de celular usando /celular e diminua suas chances de jogar contra hackers.
+
+[13:32:16] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:16] [Client thread/INFO]: [CHAT] O jogo começa em 5 segundos.
+[13:32:17] [Client thread/INFO]: [CHAT] O jogo começa em 4 segundos.
+[13:32:18] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:18] [Client thread/INFO]: [CHAT] O jogo começa em 3 segundos.
+[13:32:19] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:19] [Client thread/INFO]: [CHAT] O jogo começa em 2 segundos.
+[13:32:20] [Client thread/INFO]: [CHAT] O jogo começa em 1 segundo.
+[13:32:20] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:21] [Client thread/INFO]: [CHAT] jabutiranga entrou na partida! (8/8)
+[13:32:21] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_271]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_271]
+	at net.minecraft.util.Util.runTask(SourceFile:45) [Util.class:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1014) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:349) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_271]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_271]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_271]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_271]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_271]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_271]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:26) [start/:?]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.client.network.NetHandlerPlayClient.handleSpawnPlayer(NetHandlerPlayClient.java:484) ~[NetHandlerPlayClient.class:?]
+	at net.minecraft.network.play.server.S0CPacketSpawnPlayer.processPacket(SourceFile:75) ~[S0CPacketSpawnPlayer.class:?]
+	at net.minecraft.network.play.server.S0CPacketSpawnPlayer.processPacket(SourceFile:16) ~[S0CPacketSpawnPlayer.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[PacketThreadUtil$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_271]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_271]
+	at net.minecraft.util.Util.runTask(SourceFile:44) ~[Util.class:?]
+	... 15 more
+[13:32:21] [Client thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_271]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_271]
+	at net.minecraft.util.Util.runTask(SourceFile:45) [Util.class:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1014) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:349) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_271]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_271]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_271]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_271]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_271]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_271]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_271]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:26) [start/:?]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.client.network.NetHandlerPlayClient.handleSpawnPlayer(NetHandlerPlayClient.java:484) ~[NetHandlerPlayClient.class:?]
+	at net.minecraft.network.play.server.S0CPacketSpawnPlayer.processPacket(SourceFile:75) ~[S0CPacketSpawnPlayer.class:?]
+	at net.minecraft.network.play.server.S0CPacketSpawnPlayer.processPacket(SourceFile:16) ~[S0CPacketSpawnPlayer.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[PacketThreadUtil$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_271]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_271]
+	at net.minecraft.util.Util.runTask(SourceFile:44) ~[Util.class:?]
+	... 15 more
+[13:32:21] [Client thread/INFO]: [CHAT] 
+ Como jogar Bed Wars?
+
+ Seu objetivo é proteger sua cama enquanto tenta destruir as camas de ilhas adversárias e eliminar os jogadores inimigos. Use os minérios gerados em sua ilha para adquirir itens e melhorias. Vencerá o último jogador ou equipe viva.
+
+[13:32:23] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:32:23] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:32:24] [Client thread/INFO]: [CHAT] Você não pode quebrar a cama da sua própria ilha.
+[13:32:25] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:26] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:28] [Client thread/INFO]: [CHAT] 
+[13:32:28] [Client thread/INFO]: [CHAT] A cama do time Branco foi destruída por Moskau!
+[13:32:28] [Client thread/INFO]: [CHAT]  
+[13:32:29] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:29] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:31] [Client thread/INFO]: [CHAT] 
+ AVISO! Aliar-se a outras equipes ou jogadores não é permitido e resulta em punição. Denuncie por meio do comando /reportar.
+
+[13:32:32] [Client thread/INFO]: [CHAT] InDef_ foi morto por Moskau. ABATE FINAL!
+[13:32:32] [Client thread/INFO]: [CHAT] Todos os membros da equipe Branco foram eliminados!
+[13:32:32] [Client thread/INFO]: [CHAT] Moskau eliminou a primeira vítima!
+[13:32:32] [Client thread/INFO]: [CHAT] + 4 ferros
+[13:32:34] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:35] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:40] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:32:40] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7LongJump §8mode§7 was set to §8TestRedesky§7.
+[13:32:41] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:41] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:43] [Client thread/INFO]: [CHAT] Guteen444 abandonou a partida!
+[13:32:51] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:51] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:52] [Client thread/INFO]: [CHAT] woojna morreu sozinho!
+[13:32:54] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:32:54] [Client thread/INFO]: [CHAT] LihesDZN abandonou a partida!
+[13:32:55] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:00] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:00] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:03] [Client thread/INFO]: [CHAT] 
+[13:33:03] [Client thread/INFO]: [CHAT] A cama do time Laranja foi destruída por Moskau!
+[13:33:03] [Client thread/INFO]: [CHAT]  
+[13:33:05] [Client thread/INFO]: [CHAT] sorvetinho277 foi morto por Moskau. ABATE FINAL!
+[13:33:05] [Client thread/INFO]: [CHAT] Todos os membros da equipe Laranja foram eliminados!
+[13:33:05] [Client thread/INFO]: [CHAT] + 1 ferro
+[13:33:09] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:09] [Client thread/INFO]: [CHAT] jabutiranga morreu sozinho!
+[13:33:09] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:12] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:12] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:16] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:17] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:20] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:21] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:27] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:27] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:29] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:30] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:32] [Client thread/INFO]: [CHAT] 
+[13:33:32] [Client thread/INFO]: [CHAT] A cama do time Rosa foi destruída por Moskau!
+[13:33:32] [Client thread/INFO]: [CHAT]  
+[13:33:33] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:33] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:38] [Client thread/INFO]: [CHAT] jabutiranga foi morto por Moskau. ABATE FINAL!
+[13:33:38] [Client thread/INFO]: [CHAT] Todos os membros da equipe Rosa foram eliminados!
+[13:33:38] [Client thread/INFO]: [CHAT] + 3 ferros
+[13:33:42] [Client thread/INFO]: [CHAT] Moskau comprou a melhoria Armadura Reforçada I.
+[13:33:45] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:46] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:48] [Client thread/INFO]: [CHAT] 
+[13:33:48] [Client thread/INFO]: [CHAT] A cama do time Roxo foi destruída por Moskau!
+[13:33:48] [Client thread/INFO]: [CHAT]  
+[13:33:49] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:49] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:33:55] [Client thread/INFO]: [CHAT] debloide1405 foi morto por Moskau. ABATE FINAL!
+[13:33:55] [Client thread/INFO]: [CHAT] Todos os membros da equipe Roxo foram eliminados!
+[13:33:55] [Client thread/INFO]: [CHAT] + 4 diamantes
+[13:33:55] [Client thread/INFO]: [CHAT] + 27 ferros
+[13:33:55] [Client thread/INFO]: [CHAT] + 8 ouros
+[13:33:58] [Client thread/INFO]: [CHAT] 
+[13:33:58] [Client thread/INFO]: [CHAT]  Você ganhou 110 coins nesta partida!
+[13:33:58] [Client thread/INFO]: [CHAT] 
+[13:33:58] [Client thread/INFO]: [CHAT]   ▪ 50 coins por vencer a partida
+[13:33:58] [Client thread/INFO]: [CHAT]   ▪ 40 coins por 4 abates finais
+[13:33:58] [Client thread/INFO]: [CHAT]   ▪ 20 coins por 4 camas destruídas
+[13:33:58] [Client thread/INFO]: [CHAT]  
+[13:33:58] [Client thread/INFO]: [CHAT]  Compre um Booster de Coins para receber
+[13:33:58] [Client thread/INFO]: [CHAT]  ainda mais coins nas suas partidas!
+[13:33:58] [Client thread/INFO]: [CHAT]  
+[13:34:01] [Client thread/INFO]: [CHAT] Buscando sala de Bed Wars Solo...
+[13:34:01] [Client thread/INFO]: [CHAT] Conectando...
+[13:34:03] [Client thread/INFO]: [CHAT] Moskau entrou na partida! (2/8)
+[13:34:03] [Client thread/INFO]: [CHAT] 
+ ✖ Você não está em uma partida Prime ➠ Verifique seu número de celular usando /celular e diminua suas chances de jogar contra hackers.
+
+[13:34:04] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:34:07] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:34:08] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:34:10] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:34:11] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:34:12] [Client thread/INFO]: [CHAT] tidytdark1000 entrou na partida! (3/8)
+[13:34:24] [Client thread/INFO]: [CHAT] pkmixplay entrou na partida! (4/8)
+[13:34:32] [Client thread/INFO]: [CHAT] FakerX_ entrou na partida! (5/8)
+[13:34:36] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:34:37] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:34:39] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:34:39] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:34:41] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:34:41] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:34:45] [Client thread/INFO]: [CHAT] FakerX_: esperar 40 min pra jogar e perder pra hack bora bora
+[13:34:56] [Client thread/INFO]: [CHAT] pkmixplay: k
+[13:35:00] [Client thread/INFO]: [CHAT] tidytdark1000: eeee boraa
+[13:35:05] [Client thread/INFO]: [CHAT] pkmixplay: ta tão engraçadp hj
+[13:35:08] [Client thread/INFO]: [CHAT] FakerX_: alguem baitola joa ff aq?
+[13:35:12] [Client thread/INFO]: [CHAT] Moskau: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+[13:35:12] [Client thread/INFO]: [CHAT] pkmixplay: eu
+[13:35:14] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:35:16] [Client thread/INFO]: [CHAT] Moskau: aaaaaaaaaaa
+[13:35:17] [Client thread/INFO]: [CHAT] RizerTheBoss saiu da partida! (4/8)
+[13:35:17] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:35:19] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:35:20] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:35:21] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:35:23] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:35:24] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:35:25] [Client thread/INFO]: [CHAT] FakerX_: faço lives no ytb criando sala 4x4 e pa
+[13:35:26] [Client thread/INFO]: [CHAT] Você tem certeza? Utilize /lobby novamente para voltar ao lobby.
+[13:35:26] [Client thread/INFO]: [CHAT] Conectando...
+[13:35:30] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:35:31] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:35:35] [Client thread/INFO]: [CHAT] Buscando sala de Bed Wars Solo...
+[13:35:35] [Client thread/INFO]: [CHAT] Conectando...
+[13:35:37] [Client thread/INFO]: [CHAT] Moskau entrou na partida! (3/8)
+[13:35:37] [Client thread/INFO]: [CHAT] 
+ ✖ Você não está em uma partida Prime ➠ Verifique seu número de celular usando /celular e diminua suas chances de jogar contra hackers.
+
+[13:35:37] [Client thread/INFO]: [CHAT] FakerX_: pesquisa dps la FAKERx FF se inscreve <3
+[13:35:39] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:35:40] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:35:42] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:35:43] [Client thread/INFO]: [CHAT] Spectrooor entrou na partida! (4/8)
+[13:35:43] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:35:44] [Client thread/INFO]: [CHAT] iClobey entrou na partida! (5/8)
+[13:35:45] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:35:47] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:35:49] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:35:50] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:36:04] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:36:04] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7LongJump §8mode§7 was set to §8NewRedesky2§7.
+[13:36:06] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:36:07] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:36:08] [Client thread/INFO]: [CHAT] tidytdark1000: ficarao sabendo que esse server ta fazendo um bagui e ta diisminuindo os hacks
+[13:36:09] [Client thread/INFO]: [CHAT] FakerX_: quem jogar ff e quiser jogar umas salas eu faço live disso no ytb FAKERx FF vao la dps
+[13:36:10] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:36:11] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:36:17] [Client thread/INFO]: [CHAT] tidytdark1000: mo loco
+[13:36:21] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:36:22] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:36:24] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:36:25] [Client thread/INFO]: [CHAT] FakerX_: sai dai hack lixo
+[13:36:25] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:36:29] [Client thread/INFO]: [CHAT] Moskau: lixo
+[13:36:33] [Client thread/INFO]: [CHAT] FakerX_: mlk ta andando nas ilhas ja
+[13:36:34] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:36:34] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7LongJump §8mode§7 was set to §8NewRedesky§7.
+[13:36:34] [Client thread/INFO]: [CHAT] Spectrooor: aqui nao e lugar de falar de ff
+[13:36:34] [Client thread/INFO]: [CHAT] tidytdark1000: eu
+[13:36:36] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:36:36] [Client thread/INFO]: [CHAT] FakerX_: mds
+[13:36:37] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:36:44] [Client thread/INFO]: [CHAT] Moskau: mds
+[13:36:47] [Client thread/INFO]: [CHAT] FakerX_: se foda ent mo pcr idea da prr
+[13:36:49] [Client thread/INFO]: [CHAT] Moskau: mds report lixo
+[13:36:55] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:36:55] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3Enabled module §8Spammer§3.
+[13:36:56] [Client thread/INFO]: [CHAT] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >FcoeH<
+[13:36:56] [Client thread/INFO]: [CHAT] Aguarde 2s para usar o chat novamente.
+[13:36:57] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:36:58] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:36:58] [Client thread/INFO]: [CHAT] FakerX_: é o moskay
+[13:36:59] [Client thread/INFO]: [CHAT] Você não pode enviar uma mensagem tão parecida com a anterior.
+[13:36:59] [Client thread/INFO]: [CHAT] Você não pode enviar uma mensagem tão parecida com a anterior.
+[13:37:00] [Client thread/INFO]: [CHAT] ItsSansSay entrou na partida! (6/8)
+[13:37:00] [Client thread/INFO]: [CHAT] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >zghNKaoy<
+[13:37:01] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:37:02] [Client thread/INFO]: [CHAT] FakerX_: moskay
+[13:37:02] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:37:03] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:37:04] [Client thread/INFO]: [CHAT] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >rjdu7htY9<
+[13:37:04] [Client thread/INFO]: [CHAT] Aguarde 2s para usar o chat novamente.
+[13:37:05] [Client thread/INFO]: [CHAT] O jogo começa em 5 segundos.
+[13:37:05] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:37:06] [Client thread/INFO]: [CHAT] O jogo começa em 4 segundos.
+[13:37:06] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:37:06] [Client thread/INFO]: [CHAT] FakerX_: esse ruim
+[13:37:07] [Client thread/INFO]: [CHAT] O jogo começa em 3 segundos.
+[13:37:07] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:37:07] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:37:07] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7Spammer §8maxdelay§7 was set to §84500§7.
+[13:37:08] [Client thread/INFO]: [CHAT] O jogo começa em 2 segundos.
+[13:37:09] [Client thread/INFO]: [CHAT] O jogo começa em 1 segundo.
+[13:37:10] [Client thread/INFO]: [CHAT] 
+ Como jogar Bed Wars?
+
+ Seu objetivo é proteger sua cama enquanto tenta destruir as camas de ilhas adversárias e eliminar os jogadores inimigos. Use os minérios gerados em sua ilha para adquirir itens e melhorias. Vencerá o último jogador ou equipe viva.
+
+[13:37:12] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:37:12] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >er0dI<
+[13:37:12] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:37:13] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:37:14] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:37:14] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:37:15] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:37:15] [Client thread/INFO]: [CHAT] 
+[13:37:15] [Client thread/INFO]: [CHAT] A cama do time Verde foi destruída por Moskau!
+[13:37:15] [Client thread/INFO]: [CHAT]  
+[13:37:17] [Client thread/INFO]: [CHAT] FakerX_ foi morto por Moskau. ABATE FINAL!
+[13:37:17] [Client thread/INFO]: [CHAT] Todos os membros da equipe Verde foram eliminados!
+[13:37:17] [Client thread/INFO]: [CHAT] Moskau eliminou a primeira vítima!
+[13:37:18] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:37:18] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >zISxBeBKo<
+[13:37:20] [Client thread/INFO]: [CHAT] 
+ AVISO! Aliar-se a outras equipes ou jogadores não é permitido e resulta em punição. Denuncie por meio do comando /reportar.
+
+[13:37:21] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >Z44oL<
+[13:37:22] [Client thread/INFO]: [CHAT] Aguarde 2s para usar o chat novamente.
+[13:37:23] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:37:26] [Client thread/INFO]: [FileManager] Saved config: values.json.
+[13:37:26] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§7Spammer §8mindelay§7 was set to §84500§7.
+[13:37:28] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >zJ6jAJg3<
+[13:37:32] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >GqgZv5t<
+[13:37:34] [Client thread/INFO]: [CHAT] Você comprou "Lã" por 4 ferros!
+[13:37:35] [Client thread/INFO]: [CHAT] [Vermelho] iClobey: ?
+[13:37:37] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >8AE75osw<
+[13:37:37] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:37:38] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:37:40] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:37:40] [Client thread/INFO]: [CHAT] 
+[13:37:40] [Client thread/INFO]: [CHAT] A cama do time Laranja foi destruída por Moskau!
+[13:37:40] [Client thread/INFO]: [CHAT]  
+[13:37:41] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >lPjvhqK<
+[13:37:41] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:37:42] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:37:43] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:37:43] [Client thread/INFO]: [CHAT] [Vermelho] iClobey: é retardado ainda por cima
+[13:37:46] [Client thread/INFO]: [CHAT] Você não pode enviar uma mensagem tão parecida com a anterior.
+[13:37:46] [Client thread/INFO]: [CHAT] Spectrooor foi morto por Moskau. ABATE FINAL!
+[13:37:46] [Client thread/INFO]: [CHAT] + 1 ouro
+[13:37:46] [Client thread/INFO]: [CHAT] + 2 ferros
+[13:37:48] [Client thread/INFO]: [CHAT] [Branco] Moskau: no u retard
+[13:37:49] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:37:50] [Client thread/INFO]: [CHAT] Aguarde 1s para usar o chat novamente.
+[13:37:50] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:37:55] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >LACRflta<
+[13:37:59] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >ZC3xSsk<
+[13:38:01] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:38:02] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:38:03] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:38:04] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >uiz57rC96<
+[13:38:04] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:38:06] [Client thread/INFO]: [CHAT] 
+[13:38:06] [Client thread/INFO]: [CHAT] A cama do time Vermelho foi destruída por Moskau!
+[13:38:06] [Client thread/INFO]: [CHAT]  
+[13:38:07] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:38:08] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >llsCytf<
+[13:38:10] [Client thread/INFO]: [CHAT] iClobey foi morto por Moskau. ABATE FINAL!
+[13:38:13] [Client thread/INFO]: [CHAT] Você não pode enviar uma mensagem tão parecida com a anterior.
+[13:38:13] [Client thread/INFO]: [CHAT] [Branco] Moskau: retarded
+[13:38:17] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >TAW1dP<
+[13:38:18] [Client thread/INFO]: [CHAT] Você comprou "Maçã Dourada" por 3 ouros!
+[13:38:22] [Client thread/INFO]: [CHAT] Você não pode enviar uma mensagem tão parecida com a anterior.
+[13:38:24] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:38:25] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:38:26] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >uhSCH0x<
+[13:38:31] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >G7my81<
+[13:38:36] [Client thread/INFO]: [CHAT] Você não pode enviar uma mensagem tão parecida com a anterior.
+[13:38:40] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >uOIFPbTWT<
+[13:38:45] [Client thread/INFO]: [CHAT] tidytdark1000 morreu sozinho!
+[13:38:45] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >dldPXa<
+[13:38:49] [Client thread/INFO]: [CHAT] Você não pode enviar uma mensagem tão parecida com a anterior.
+[13:38:54] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >nMxHxkbY1<
+[13:38:57] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:38:58] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >MVdVxK2p<
+[13:39:00] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:39:03] [Client thread/INFO]: [CHAT] Você não pode enviar uma mensagem tão parecida com a anterior.
+[13:39:07] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >hIQNWwNh<
+[13:39:08] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:39:09] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:39:11] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:39:12] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >y1zvE<
+[13:39:12] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:39:13] [Client thread/INFO]: [CHAT] 
+[13:39:13] [Client thread/INFO]: [CHAT] A cama do time Roxo foi destruída por Moskau!
+[13:39:13] [Client thread/INFO]: [CHAT]  
+[13:39:16] [Client thread/INFO]: [CHAT] Você não pode enviar uma mensagem tão parecida com a anterior.
+[13:39:20] [Client thread/INFO]: [CHAT] tidytdark1000 foi morto por Moskau. ABATE FINAL!
+[13:39:20] [Client thread/INFO]: [CHAT] Todos os membros da equipe Roxo foram eliminados!
+[13:39:20] [Client thread/INFO]: [CHAT] + 2 ferros
+[13:39:20] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:39:20] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:39:21] [Client thread/INFO]: [CHAT] Você não pode enviar uma mensagem tão parecida com a anterior.
+[13:39:26] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >2acB92nK<
+[13:39:28] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:39:29] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:39:30] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >t0E8jj<
+[13:39:36] [Client thread/INFO]: [CHAT] Você não pode enviar uma mensagem tão parecida com a anterior.
+[13:39:40] [Client thread/INFO]: [CHAT] Você não pode enviar uma mensagem tão parecida com a anterior.
+[13:39:46] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >TJZdM3ua<
+[13:39:48] [Client thread/INFO]: [FileManager] Saved config: modules.json.
+[13:39:50] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >u3oWFTRX<
+[13:39:55] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >7uxNM8c<
+[13:39:59] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >H0MuvC3<
+[13:40:04] [Client thread/INFO]: [CHAT] [Branco] Moskau: Mossware Client | liquidbounce(.net) | CCBlueX on yt >pMT9WAv<
+[13:40:07] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§9Creating settings...
+[13:40:07] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§9Saving settings...
+[13:40:07] [Client thread/INFO]: [CHAT] §8[§9§lMossware§8] §3§6Settings saved successfully.
+[13:40:08] [Client thread/INFO]: Applying holder lookups
+[13:40:08] [Client thread/INFO]: Holder lookups applied
